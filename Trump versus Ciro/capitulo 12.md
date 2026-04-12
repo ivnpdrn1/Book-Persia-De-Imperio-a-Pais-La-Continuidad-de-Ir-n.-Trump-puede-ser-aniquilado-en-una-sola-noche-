@@ -1,155 +1,163 @@
-Sigue el intento de resolver el límite del sistema parto: **recuperar cohesión sin perder estabilidad**.
+Seguimos con el momento donde esa cohesión empieza a ser puesta a prueba: **el desgaste acumulado del sistema**.
 
 ---
 
-# 📖 Capítulo 12 — Roma y Persia
+# 📖 Capítulo 12 — El Desgaste del Sistema
 
-El sistema no avanza.
+**Periodo:** 500–651 d.C.
 
-Se contiene.
+**Actor principal:** Imperio sasánida y el Imperio bizantino
 
-Después del surgimiento parto, Persia ya no enfrenta sistemas débiles. Ahora se encuentra frente a un equivalente: Roma.
+**Estado del sistema:** Desgaste estructural (funcionamiento sin margen)
 
-Dos estructuras grandes.
+El sistema sigue funcionando.
 
-Dos formas distintas de organizar el poder.
+Pero cada vez le cuesta más.
 
-Y ninguna puede imponerse completamente sobre la otra.
+Después de lograr cohesión, Persia entra en una nueva fase. Ya no es fragmentación. Ya no es reconstrucción.
+
+Es mantenimiento.
+
+Y mantener un sistema complejo tiene un costo.
 
 Caso conceptual:
 
-Cuando dos sistemas de escala similar colisionan, el resultado no es destrucción inmediata.
+Un sistema no colapsa cuando deja de funcionar.
 
-Es equilibrio.
+Colapsa cuando sigue funcionando sin margen.
 
-Pero no un equilibrio estable.
+Eso es lo que ocurre.
 
-Un equilibrio en tensión constante.
+El Imperio sasánida mantiene su estructura.
+
+Responde.
+
+Actúa.
+
+Se sostiene.
+
+Pero cada acción consume más de lo que recupera.
 
 Caso concreto:
 
-Las fronteras entre Roma y Persia no son fijas.
+Las guerras prolongadas contra el Imperio bizantino.
 
-Cambian.
+No son eventos aislados.
 
-Se desplazan.
+Son constantes.
 
-Se disputan.
+Campañas repetidas.
 
-Pero nunca desaparecen.
+Recursos movilizados de forma continua.
 
-Ninguno logra absorber al otro.
+Presión sobre el sistema fiscal.
 
-Eso define la dinámica.
-
-No hay victoria total.
-
-Solo contención.
+Dependencia de una estructura que debe mantenerse activa en todo momento.
 
 Caso conceptual:
 
-Un sistema que no puede expandirse redirige su energía hacia sostener su posición.
+El conflicto prolongado no destruye de inmediato.
 
-Eso genera desgaste.
+Desgasta.
 
-Porque mantener el equilibrio requiere esfuerzo continuo.
+Y el desgaste es acumulativo.
 
-Recursos.
+No se percibe en un solo momento.
 
-Ejército.
-
-Atención constante.
-
-Persia, bajo los partos, entra en ese estado.
-
-No colapsa.
-
-Pero tampoco puede crecer con libertad.
-
-Se estabiliza.
-
-Y esa estabilidad prolongada genera un efecto interno.
-
-La necesidad de redefinirse.
-
-Caso conceptual:
-
-Un sistema que permanece demasiado tiempo en equilibrio deja de evolucionar.
-
-Y cuando deja de evolucionar, comienza a acumular tensiones internas.
-
-Porque el entorno sigue cambiando.
-
-Pero el sistema no.
+Se construye con el tiempo.
 
 Caso clave:
 
-Roma y Persia se definen mutuamente.
+El sistema sigue respondiendo.
 
-Cada uno adapta su estructura en función del otro.
+Pero pierde eficiencia.
 
-Fortalece sus fronteras.
+Cada vez necesita más recursos para obtener el mismo resultado.
 
-Optimiza su defensa.
-
-Refuerza su identidad.
-
-Pero ese proceso tiene un costo.
-
-Reduce la flexibilidad.
+Cada vez tiene menos margen para absorber errores.
 
 Caso conceptual:
 
-Un sistema diseñado para resistir se vuelve menos capaz de transformarse.
+Cuando el costo de operar un sistema aumenta constantemente, su sostenibilidad disminuye.
 
-Y esa transformación es necesaria para sostener el largo plazo.
+Aunque externamente siga funcionando.
 
-Aquí aparece el siguiente problema.
-
-Persia ha resuelto el colapso.
-
-Ha evitado la desaparición.
-
-Pero ahora enfrenta algo más complejo.
-
-La falta de cohesión interna suficiente para competir a largo plazo.
+Ese es el punto invisible.
 
 Caso conceptual:
 
-Sobrevivir no es suficiente.
+Un sistema puede parecer estable mientras en realidad está perdiendo capacidad.
 
-Un sistema necesita coherencia para escalar.
+Y esa pérdida no se ve hasta que es demasiado tarde.
 
-Y la estructura parto, aunque resistente, no logra esa coherencia completa.
+Aquí aparece otro factor.
 
-Demasiada autonomía.
+La dependencia de la cohesión.
 
-Demasiada variación.
+Caso conceptual:
 
-Demasiada dependencia de acuerdos locales.
+Un sistema centralizado necesita que todas sus partes estén alineadas.
 
-Eso limita su capacidad de acción unificada.
+Porque cualquier desviación afecta al conjunto.
 
-Y en un entorno donde el adversario también evoluciona, eso se convierte en una desventaja.
+Pero en un entorno de presión constante, mantener esa alineación se vuelve más difícil.
 
-Este es el punto donde el sistema debe cambiar otra vez.
+Caso concreto:
 
-No porque esté colapsando.
+Tensiones internas.
 
-Sino porque ya no es suficiente.
+Fatiga del sistema.
 
-Lo que sigue es un intento de resolver esa limitación.
+Menor capacidad de respuesta rápida.
 
-De recuperar unidad.
+Todo esto no rompe el sistema.
 
-De reconstruir un centro más fuerte.
+Pero lo debilita.
 
-Pero ese cambio no es neutral.
+Caso conceptual:
 
-Aumenta la cohesión.
+Un sistema bajo presión constante pierde flexibilidad.
 
-Pero reduce la flexibilidad.
+Y sin flexibilidad, no puede adaptarse a cambios inesperados.
 
-Y ese equilibrio será el nuevo desafío.
+Ese es el verdadero riesgo.
 
-Porque cada solución crea su propio límite.
+No el desgaste en sí.
+
+La incapacidad de responder a lo nuevo.
+
+Caso conceptual:
+
+Un sistema preparado para enfrentar problemas conocidos puede fallar frente a un problema distinto.
+
+Porque sus soluciones están optimizadas para un entorno que ya no existe.
+
+Eso es lo que está a punto de suceder.
+
+El sistema sasánida no cae por una sola derrota.
+
+Cae porque enfrenta algo para lo que no está diseñado.
+
+Y en ese momento, no tiene margen.
+
+Caso conceptual:
+
+Cuando el margen desaparece, el siguiente impacto no puede ser absorbido.
+
+Se convierte en ruptura.
+
+Y esa ruptura no será gradual.
+
+Será rápida.
+
+Porque el sistema ya no puede ajustarse.
+
+Lo que sigue no es una guerra más.
+
+Es un cambio de sistema.
+
+Uno completamente distinto.
+
+Y cuando eso ocurre, la historia no continúa.
+
+Se redefine.
