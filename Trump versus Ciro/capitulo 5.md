@@ -1,8 +1,14 @@
-Sigue el momento donde el sistema alcanza su máxima eficiencia y, sin darse cuenta, **se acerca a su propio límite**.
+Seguimos con el momento donde el sistema alcanza su máxima eficiencia y, sin darse cuenta, **se acerca a su propio límite**.
 
 ---
 
-# 📖 Capítulo 5 — El Apogeo Aqueménida
+# 📖 Capítulo 5 — El Apogeo del Sistema
+
+**Periodo:** 486–330 a.C.
+
+**Actor principal:** Darío I y sus sucesores aqueménidas
+
+**Estado del sistema:** Apogeo operativo (máxima eficiencia, mínimo margen)
 
 El sistema funciona.
 
@@ -40,9 +46,9 @@ Caso concreto:
 
 Cada región sabe qué aportar.
 
-Cada administrador sabe qué hacer.
+Cada administrador entiende su función.
 
-Cada decisión tiene un marco.
+Cada decisión opera dentro de un marco definido.
 
 Eso reduce incertidumbre.
 
@@ -72,11 +78,11 @@ No es solo una ruta.
 
 Es un sistema de comunicación.
 
-Mensajeros que se relevan.
+Mensajeros.
+
+Relevos.
 
 Estaciones organizadas.
-
-Flujo constante de información.
 
 El imperio puede saber lo que ocurre en sus extremos.
 
@@ -118,7 +124,7 @@ Menos conflictivo.
 
 Más eficiente.
 
-Y aquí aparece el punto clave.
+Y aquí aparece el punto crítico.
 
 Todo funciona.
 
@@ -156,7 +162,7 @@ Nada parece fallar.
 
 Pero el margen ha desaparecido.
 
-Y cuando el margen desaparece, el siguiente cambio no se puede absorber.
+Y cuando el margen desaparece, el siguiente cambio no puede ser absorbido.
 
 Se propaga.
 
@@ -178,8 +184,8 @@ Lo que sigue no es una crisis externa.
 
 Es algo más profundo.
 
-Una fractura interna.
+Una pérdida de ajuste interno.
 
-Donde el sistema deja de ajustarse con la misma precisión con la que antes funcionaba.
+Donde el sistema deja de sincronizarse con la misma precisión con la que antes funcionaba.
 
-Ahí empieza realmente el cambio.
+Ahí comienza realmente el cambio.
