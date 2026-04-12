@@ -5,7 +5,9 @@ Seguimos con la secuencia natural: **los elementos comienzan a organizarse dentr
 # 📖 Capítulo 2 — La Llegada de los Pueblos Iranios
 
 **Periodo:** 1500–550 a.C.
+
 **Actor principal:** Medos y persas (pueblos indoeuropeos iranios)
+
 **Estado del sistema:** Organización inicial (estructura sin integración total)
 
 El sistema aún no existe.
