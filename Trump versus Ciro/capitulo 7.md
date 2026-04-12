@@ -1,50 +1,52 @@
-Sigue el momento donde ese límite interno se encuentra con un sistema externo más rápido: **la ruptura**.
+Seguimos con el momento donde ese límite interno se encuentra con un sistema externo más rápido: **la ruptura definitiva del modelo aqueménida**.
 
 ---
 
 # 📖 Capítulo 7 — La Ruptura
 
-El sistema no colapsa solo.
+**Periodo:** 334–330 a.C.
 
-Es superado.
+**Actor principal:** Alejandro Magno vs Darío III
 
-Después de perder flexibilidad, Persia sigue siendo fuerte. Su tamaño, su estructura y su historia siguen intactos.
+**Estado del sistema:** Ruptura estructural (colapso por desajuste de velocidad)
+
+El sistema no colapsa por falta de poder.
+
+Colapsa por falta de adaptación.
+
+Después de la pérdida de ajuste interno, Persia sigue siendo una de las estructuras más grandes y organizadas de su tiempo.
 
 Pero ya no es suficiente.
 
 Porque aparece algo distinto.
 
-Un sistema que no compite en escala.
+No un sistema más grande.
 
-Compite en velocidad.
+Un sistema más rápido.
 
 Caso conceptual:
 
-Cuando un sistema grande pierde agilidad, no necesita ser destruido desde su tamaño.
+Cuando un sistema grande pierde agilidad, no necesita ser superado en tamaño.
 
-Puede ser superado desde su tiempo de respuesta.
+Puede ser superado en tiempo.
 
-Ese es el cambio.
+Eso redefine el conflicto.
 
-Persia sigue operando como un sistema complejo.
+Persia sigue operando como una estructura compleja.
 
-Pero ahora enfrenta uno más simple.
-
-Más rápido.
-
-Más directo.
+Pero ahora enfrenta una fuerza que no depende de esa complejidad.
 
 Caso concreto:
 
-Las campañas de Alejandro Magno.
+Las campañas de Alejandro Magno no siguen la lógica tradicional.
 
-No siguen la lógica de desgaste progresivo.
+No buscan desgaste prolongado.
 
-No buscan integrar lentamente.
+No intentan integrar lentamente.
 
-Se mueven con rapidez.
+Avanzan rápido.
 
-Golpean puntos clave.
+Golpean puntos críticos.
 
 Fuerzan decisiones inmediatas.
 
@@ -52,29 +54,33 @@ Eso rompe el ritmo del sistema persa.
 
 Caso conceptual:
 
-Un sistema funciona dentro de su propio tiempo.
+Todo sistema opera dentro de un tiempo propio.
 
-Cuando otro sistema impone un ritmo distinto, el primero debe adaptarse o falla.
+Cuando otro sistema impone un tiempo distinto, el primero debe adaptarse o queda expuesto.
 
 Persia no logra adaptarse a tiempo.
 
 No porque no pueda.
 
-Porque su estructura no se lo permite con suficiente rapidez.
+Porque su estructura ya no se lo permite con suficiente rapidez.
 
 Caso clave:
 
-La batalla no es solo militar.
+La batalla de Gaugamela.
 
-Es estructural.
+No es una batalla de recursos.
 
-Persia depende de coordinación.
+Es una batalla de coordinación.
 
-De múltiples niveles de decisión.
+Persia tiene más hombres.
 
-De información que debe viajar.
+Más territorio.
 
-Alejandro concentra la decisión.
+Más historia.
+
+Pero depende de múltiples niveles de decisión.
+
+Alejandro concentra el mando.
 
 Reduce intermediarios.
 
@@ -92,13 +98,13 @@ Persia responde.
 
 Pero responde tarde.
 
-Y en ese desfase, pierde control.
+Y en ese desfase, pierde.
 
 Caso conceptual:
 
-El resultado no se define en el momento del impacto.
+El resultado no se define en el impacto.
 
-Se define en la diferencia entre reacción y acción.
+Se define en la diferencia entre acción y reacción.
 
 Alejandro actúa.
 
@@ -130,7 +136,7 @@ Un sistema robusto no se elimina completamente.
 
 Se reutiliza.
 
-Porque sigue siendo eficiente.
+Porque sigue siendo funcional.
 
 Eso confirma algo clave.
 
@@ -145,8 +151,6 @@ Eso cambia la lectura.
 El imperio cae.
 
 El sistema permanece.
-
-Y mientras el sistema permanezca, la historia continúa.
 
 Caso conceptual:
 
@@ -180,12 +184,16 @@ Y ese aprendizaje redefine su siguiente forma.
 
 Lo que sigue no es desaparición.
 
-Es algo más difícil de detectar.
-
-Continuidad sin poder.
+Es continuidad sin poder.
 
 Y esa forma es más estable de lo que parece.
 
 Porque no depende de dominar.
 
 Depende de permanecer.
+
+Ese será el siguiente estado del sistema.
+
+Más difícil de ver.
+
+Pero más difícil de eliminar.
