@@ -5,7 +5,9 @@ Perfecto — comenzamos a aplicar el formato desde el inicio, sin perder tu esti
 # 📖 Capítulo 1 — El Territorio Antes del Imperio
 
 **Periodo:** 3000–600 a.C.
+
 **Actor principal:** Civilizaciones de Elam y pueblos de la meseta iraní
+
 **Estado del sistema:** Formación preestructural (condiciones sin organización)
 
 Antes de Persia, no existía Persia.
