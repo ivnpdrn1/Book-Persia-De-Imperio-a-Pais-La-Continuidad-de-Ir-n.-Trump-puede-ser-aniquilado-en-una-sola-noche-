@@ -5,7 +5,9 @@ Seguimos con el momento donde el sistema enfrenta algo completamente distinto: *
 # 📖 Capítulo 13 — El Cambio de Sistema
 
 **Periodo:** 633–651 d.C.
+
 **Actor principal:** Expansión árabe islámica (Califato Rashidun)
+
 **Estado del sistema:** Ruptura por incompatibilidad (colapso del modelo sasánida)
 
 El sistema no pierde una batalla.
