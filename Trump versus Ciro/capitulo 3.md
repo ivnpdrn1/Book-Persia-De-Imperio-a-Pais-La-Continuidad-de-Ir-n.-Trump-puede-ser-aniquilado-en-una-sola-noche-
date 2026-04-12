@@ -1,14 +1,13 @@
-Seguimos con el punto donde todos los elementos finalmente se integran y el sistema **toma forma consciente**.
+Seguimos con el punto donde todos los elementos se conectan y el sistema **toma forma consciente**.
 
 ---
 
 # 📖 Capítulo 3 — Ciro y la Unificación
 
 **Periodo:** 550–530 a.C.
-
 **Actor principal:** Ciro II el Grande
-
 **Estado del sistema:** Integración estructural (nacimiento del sistema)
+**Mecanismo de estabilidad (paz del sistema):** Integración cultural y continuidad de estructuras
 
 El sistema no aparece.
 
@@ -104,7 +103,7 @@ No obliga a desaparecer.
 
 Permite coexistir.
 
-Y eso cambia la relación con el poder.
+Y eso redefine la relación con el poder.
 
 Caso conceptual:
 
@@ -169,5 +168,3 @@ Donde el sistema debe demostrar que puede operar en escala.
 Y que su diseño no solo funciona en expansión.
 
 Sino también en estabilidad.
-
-Ahí comienza realmente la prueba del imperio.
