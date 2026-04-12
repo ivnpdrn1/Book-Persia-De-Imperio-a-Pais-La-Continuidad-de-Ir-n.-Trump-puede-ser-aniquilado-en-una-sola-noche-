@@ -1,24 +1,30 @@
-Sigue el momento donde esa eficiencia comienza a fallar desde dentro: **la pérdida de ajuste interno**.
+Seguimos con el punto donde esa eficiencia empieza a fallar desde dentro: **la pérdida de sincronía del sistema**.
 
 ---
 
-# 📖 Capítulo 6 — El Límite del Sistema
+# 📖 Capítulo 6 — La Pérdida de Ajuste
+
+**Periodo:** 450–330 a.C.
+
+**Actor principal:** Últimos reyes aqueménidas (incluyendo Artajerjes III y Darío III)
+
+**Estado del sistema:** Desalineación progresiva (eficiencia sin flexibilidad)
 
 El sistema no falla de inmediato.
 
-Empieza a desalinearse.
+Empieza a desincronizarse.
 
-Después del apogeo, todo sigue funcionando. La estructura está intacta. Las rutas operan. La administración responde.
+Después del apogeo, todo sigue funcionando. La estructura está en pie. La administración responde. El territorio permanece bajo control.
 
-Pero algo cambia.
+Desde afuera, nada parece haber cambiado.
 
-El sistema deja de ajustarse con la misma precisión.
+Pero internamente, la precisión comienza a perderse.
 
 Caso conceptual:
 
 Un sistema altamente eficiente depende de sincronía.
 
-Cuando esa sincronía se pierde, el sistema no colapsa.
+Cuando esa sincronía se rompe, el sistema no colapsa.
 
 Se vuelve impreciso.
 
@@ -26,21 +32,21 @@ Eso es lo que ocurre.
 
 Las partes siguen operando.
 
-Pero ya no lo hacen exactamente al mismo ritmo.
+Pero ya no lo hacen al mismo ritmo.
 
 Caso concreto:
 
-Las regiones comienzan a responder más a su propio contexto que al sistema completo.
+Las regiones empiezan a responder más a su propio contexto que al sistema completo.
 
 No es rebelión.
 
 Es desviación.
 
-Pequeñas diferencias en decisiones.
+Pequeñas decisiones locales.
 
-En tiempos.
+Pequeñas diferencias en tiempos.
 
-En prioridades.
+Pequeñas variaciones en prioridades.
 
 Nada crítico por sí solo.
 
@@ -54,7 +60,7 @@ Se transforma por muchos pequeños desajustes.
 
 Cada uno parece manejable.
 
-Pero juntos, cambian la dinámica.
+Pero juntos, cambian la estructura.
 
 El centro sigue emitiendo órdenes.
 
@@ -128,11 +134,11 @@ Repite patrones.
 
 Aplica soluciones conocidas.
 
-Pero el entorno no es exactamente el mismo.
+Pero el entorno ya no es exactamente el mismo.
 
 Caso conceptual:
 
-La experiencia puede convertirse en una limitación cuando el sistema deja de cuestionarla.
+La experiencia acumulada puede convertirse en una limitación cuando deja de cuestionarse.
 
 Eso reduce la capacidad de adaptación.
 
@@ -166,11 +172,9 @@ Un sistema que no necesita ser más grande.
 
 Solo más rápido.
 
-Ese sistema aún no ha llegado.
+Ese sistema está por aparecer.
 
-Pero el entorno ya lo está preparando.
-
-Y cuando aparezca, no enfrentará a Persia en su peor momento.
+Y cuando lo haga, no enfrentará a Persia en su peor momento.
 
 La enfrentará en el momento exacto en que ya no puede ajustarse.
 
@@ -180,4 +184,10 @@ No cuando el sistema falle.
 
 Cuando deja de poder responder.
 
-Y ese momento está más cerca de lo que parece.
+Y ese momento ya ha llegado.
+
+Lo que sigue no es una corrección interna.
+
+Es un impacto externo.
+
+Uno que el sistema ya no puede absorber.
