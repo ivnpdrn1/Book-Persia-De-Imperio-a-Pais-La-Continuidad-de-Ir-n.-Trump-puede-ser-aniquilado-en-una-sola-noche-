@@ -1,0 +1,273 @@
+Sí. Vamos a arreglarlo **paso a paso** en Word para que KDP deje de marcar errores.
+
+Hazlo en este orden.
+
+# 1. Guarda una copia del archivo
+
+Antes de tocar nada:
+
+* File → Save As
+* crea una copia con nombre como:
+  **Iran_KDP_6x9_FINAL.docx**
+
+Trabaja sobre esa copia.
+
+# 2. Cambia el tamaño de página a 6 x 9
+
+En Word:
+
+* **Layout** → **Size** → **More Paper Sizes**
+* en **Paper**:
+
+  * Width: **6"**
+  * Height: **9"**
+* Apply to: **Whole document**
+* OK
+
+# 3. Configura márgenes espejo y gutter
+
+Ve a:
+
+* **Layout** → **Margins** → **Custom Margins**
+
+Pon esto:
+
+* Top: **0.5"**
+* Bottom: **0.5"**
+* Inside: **0.5"**
+* Outside: **0.25"**
+* Gutter: **0.5"**
+* Gutter position: **Left**
+* Multiple pages: **Mirror margins**
+* Apply to: **Whole document**
+
+Luego OK.
+
+# 4. Cambia la vista para detectar problemas
+
+Para trabajar mejor:
+
+* **View** → activa **Navigation Pane** si quieres
+* usa **Print Layout**
+* sube el zoom a **100% o 120%**
+
+# 5. Elimina todos los objetos flotantes
+
+En tu captura se ven muchos bloques grises. Eso es una gran parte del problema.
+
+Haz esto:
+
+* **Home** → **Select** → **Selection Pane**
+
+Se abrirá una lista de objetos a la derecha.
+
+Ahora:
+
+* si ves **Text Box**, **Rectangle**, **Shape**, **Line**, etc., selecciónalos
+* pulsa **Delete**
+
+Hazlo con todos los que no sean realmente necesarios.
+
+Si no aparecen en la lista, prueba clicando directamente cada bloque gris y borrándolo.
+
+Regla útil:
+
+* si algo se selecciona como caja o forma, bórralo
+* el interior del libro debe quedar casi todo como **texto normal**, no objetos
+
+# 6. Corrige el título interior
+
+KDP te marcó la página del título porque “IRAN” quedó muy alto.
+
+Haz esto en la primera página:
+
+* selecciona el bloque del título
+* baja un poco todo el conjunto
+* deja más espacio arriba
+
+Que quede claramente dentro del área segura. No pegado al borde superior.
+
+# 7. Convierte el texto a formato limpio
+
+Ahora sí:
+
+* **Ctrl + A**
+* **Home** → **Justify**
+
+Luego, con todo todavía seleccionado:
+
+* botón derecho → **Paragraph**
+* Alignment: **Justified**
+* Outline level: **Body Text**
+* Indentation:
+
+  * Left: **0**
+  * Right: **0**
+  * Special: **First line**
+  * By: **0.3"**
+* Spacing:
+
+  * Before: **0 pt**
+  * After: **0 pt** o **3 pt**
+* Line spacing: **1.15**
+
+OK.
+
+# 8. Corrige encabezados de capítulos
+
+Los títulos como:
+
+* Prologue
+* Introduction
+* Chapter 1
+* Chapter 2
+
+no deben ir justificados como texto normal.
+
+Haz esto en cada título principal:
+
+* selecciónalo
+* Alignment: **Center** o **Left** según tu estilo
+* First line indent: **None**
+* Before: **18–24 pt**
+* After: **12 pt**
+
+# 9. Revisa las páginas que KDP marcó
+
+KDP te dio páginas concretas. Revisa una por una:
+
+* 1, 2, 5, 6, 7, 8, 9, 10, 12, 13, 14, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28
+* 30, 38, 41, 47, 51, 54, 55, 57, 58, 59, 62
+* 153
+
+Qué buscar:
+
+* texto tocando bordes
+* líneas o cajas invisibles
+* párrafos pegados al margen superior
+* objetos raros
+* espacios gigantes
+
+# 10. Corrige copyright y dedication
+
+En tus capturas esas páginas están demasiado abiertas y con elementos desordenados.
+
+Hazlas simples.
+
+## Copyright
+
+Pon solo texto normal, sin cajas:
+
+**Copyright**
+
+© 2026 Iván Padrón
+
+All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+First edition
+
+## Dedication
+
+Hazla como texto centrado o alineado a la izquierda, pero limpio. Sin objetos.
+
+# 11. Revisa los headers
+
+Tus headers deben quedar dentro del área segura.
+
+Haz doble clic en el header y revisa:
+
+* que no esté demasiado arriba
+* que no se meta en el borde
+* que el texto sea pequeño, por ejemplo 9 pt o 10 pt
+
+Puedes usar:
+
+* página par: **IRAN – The System That Challenges the World**
+* página impar: **Iván Padrón**
+
+# 12. Revisa numeración de páginas
+
+Si usas numeración:
+
+* que no esté demasiado abajo o fuera del margen
+* mejor centrada abajo o exterior abajo
+
+# 13. Evita saltos raros y líneas sueltas
+
+Donde veas líneas horizontales o separadores innecesarios, bórralos.
+
+Tu libro gana más con diseño limpio que con adornos.
+
+# 14. Revisa el final del libro
+
+Mira especialmente:
+
+* Bibliography
+* About the Author
+* CTA final
+* Other Works by the Author
+
+Suelen generar errores por spacing o cajas pegadas.
+
+# 15. Exporta PDF correctamente
+
+Cuando todo esté limpio:
+
+* **File** → **Save As**
+* elige **PDF**
+* selecciona **Standard (publishing online and printing)**
+* no uses Minimum size
+
+# 16. NO subas ese PDF como cover
+
+Tu error de cover pasó porque KDP detectó un archivo 8.5 x 11 como si fuera cover.
+
+El interior PDF va en **manuscript/interior**.
+El cover debe ser otro archivo aparte, con back + spine + front.
+
+# 17. Sube de nuevo el interior primero
+
+Primero sube solo el interior corregido y espera el preview.
+
+Si el interior pasa, luego corriges cover si hace falta.
+
+# 18. Si KDP todavía marca páginas
+
+Si quedan pocas páginas con error:
+
+* abre esas páginas específicas
+* busca qué sobresale
+* casi siempre es:
+
+  * título muy alto
+  * objeto escondido
+  * párrafo sin reflujo
+  * línea decorativa
+
+# 19. Tu objetivo visual
+
+Cada página debe verse así:
+
+* texto limpio
+* sin bloques grises
+* sin cajas
+* sin nada tocando el borde punteado
+* márgenes consistentes
+
+# 20. Orden recomendado para arreglar rápido
+
+Hazlo así:
+
+1. tamaño 6x9
+2. márgenes espejo + gutter
+3. borrar objetos
+4. justificar texto
+5. corregir title page
+6. corregir copyright/dedication
+7. revisar páginas marcadas
+8. exportar PDF
+9. subir a KDP
+
+Empieza por los pasos 2 al 5. Cuando termines esos, te digo cómo revisar las páginas marcadas de forma más rápida.
